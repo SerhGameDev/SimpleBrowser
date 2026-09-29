@@ -1,0 +1,67 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Generated files
+GeneratedFiles/
+
+# Publish output
+publish/
+
+# Dotnet
+artifacts/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
