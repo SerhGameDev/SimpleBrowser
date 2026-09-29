@@ -24,8 +24,6 @@
                 <ColumnDefinition Width="130"/>
             </Grid.ColumnDefinitions>
 
-            <!-- Здесь школьники добавят кнопки и адресную строку -->
-
         </Grid>
 
     </Grid>
