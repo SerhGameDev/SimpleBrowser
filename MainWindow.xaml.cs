@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Windows;
-using Microsoft.Web.WebView2.Core;
 
 namespace WpfApp2
 {
@@ -9,7 +8,7 @@ namespace WpfApp2
         public MainWindow()
         {
             InitializeComponent();
-
         }
+
     }
 }

@@ -28,6 +28,11 @@
 
         </Grid>
 
+        <wv2:WebView2 Grid.Row="1"
+                      x:Name="Browser"
+                      Margin="10"
+                      SourceChanged="Browser_SourceChanged"/>
+
     </Grid>
 
 </Window>
